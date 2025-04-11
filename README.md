@@ -35,6 +35,9 @@ ComfyUI lets you design and execute advanced stable diffusion pipelines using a 
 
 ## Get Started
 
+#### SOP
+- Install Git. from [here](https://git-scm.com/downloads/win)
+
 #### [Desktop Application](https://www.comfy.org/download)
 - The easiest way to get started. 
 - Available on Windows & macOS.
